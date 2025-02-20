@@ -1,0 +1,35 @@
+#loginn{
+    background-color: #89f59f;
+    border: #0d4518;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100px;
+    width: 300px;
+    margin: 20px;
+    font-size: 25px;
+}
+
+#main {
+    width: 400px;
+    height: 400px;
+    margin: 200px;
+    margin-left: 500px;
+ 
+
+}
+.button{
+    height: 100px;
+    width: 100px;
+    background-color: #419652 ;
+    align-self: center;
+    font-size: 25px;
+
+}
+
+input{
+    height: 30px;
+    font-size: 25px;
+
+}
